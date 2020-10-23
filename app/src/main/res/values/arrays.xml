@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items">   // файл с массивом из ресурсов.
+        <item>"10.02 Пн     +3"</item>
+        <item>"11.02 Вт     +4"</item>
+        <item>"12.02 Ср      -2"</item>
+        <item>"13.02 Чт     +35"</item>
+        <item>"14.02 Пт     +5"</item>
+        <item>"15.02 Сб     +7"</item>
+        <item>"16.02 Вс     +8"</item>
+    </string-array>
+    <string-array name="items2">   // файл с массивом из ресурсов.
+        <item>"0:00   +3         "</item>
+        <item>"1:00   +3         "</item>
+        <item>"2:00   +3         "</item>
+        <item>"3:00   +4         "</item>
+        <item>"4:00   +4         "</item>
+        <item>"5:00   +5         "</item>
+        <item>"5:00   +5         "</item>
+        <item>"6:00   +6         "</item>
+        <item>"7:00   +7         "</item>
+        <item>"8:00   +8         "</item>
+        <item>"9:00   +8         "</item>
+        <item>"10:00   +9        "</item>
+        <item>"11:00   +12       "</item>
+        <item>"12:00   +18       "</item>
+        <item>"13:00   +25       "</item>
+        <item>"14:00   +25       "</item>
+        <item>"15:00   +23       "</item>
+        <item>"16:00   +20       "</item>
+        <item>"17:00   +17       "</item>
+        <item>"18:00   +15       "</item>
+        <item>"19:00   +14       "</item>
+        <item>"20:00   +10       "</item>
+        <item>"21:00   +5        "</item>
+        <item>"22:00   +3        "</item>
+        <item>"23:00   +3        "</item>
+
+    </string-array>
+
+</resources>

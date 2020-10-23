@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">"Погодное приложение"</string>
+    <string name="textview">погода на ближайшие дни:</string>
+    <string name="textview2">Погода на сегодня :</string>
+</resources>
